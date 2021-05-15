@@ -1,2 +1,2 @@
 # jamsers.github.io
-Personal site.
+Rudimentary personal site.
